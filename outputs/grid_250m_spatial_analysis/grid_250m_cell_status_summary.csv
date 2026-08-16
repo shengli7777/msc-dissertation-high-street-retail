@@ -1,0 +1,11 @@
+city,cell_status,n_cells
+Birmingham,declined,643
+Birmingham,disappeared,92
+Birmingham,emerged,50
+Birmingham,intensified,172
+Birmingham,persistent,599
+Liverpool,declined,359
+Liverpool,disappeared,34
+Liverpool,emerged,12
+Liverpool,intensified,73
+Liverpool,persistent,223

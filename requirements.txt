@@ -1,0 +1,10 @@
+﻿pandas
+numpy
+matplotlib
+pillow
+pyarrow
+pyshp
+shapely
+scipy
+scikit-learn
+hdbscan
