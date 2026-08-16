@@ -4,6 +4,8 @@ matplotlib
 pillow
 pyarrow
 pyshp
+pyproj
+geopandas
 shapely
 scipy
 scikit-learn

@@ -2,6 +2,8 @@
 import struct
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[1]
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
@@ -358,4 +360,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
